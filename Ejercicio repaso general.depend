@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1680639972 source:c:\users\manu\desktop\fq\2∞ a—o\algo y estructura de datos\ejercicios c\ejercicio repaso general\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"carton.h"
+	"jugada.h"
+
+1680638677 c:\users\manu\desktop\fq\2∞ a—o\algo y estructura de datos\ejercicios c\ejercicio repaso general\carton.h
+
+1680639972 source:c:\users\manu\desktop\fq\2∞ a—o\algo y estructura de datos\ejercicios c\ejercicio repaso general\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"carton.h"
+	"jugada.h"
+
+1680638314 source:c:\users\manu\desktop\fq\2∞ a—o\algo y estructura de datos\ejercicios c\ejercicio repaso general\jugada.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugada.h"
+	"carton.h"
+
+1680638174 c:\users\manu\desktop\fq\2∞ a—o\algo y estructura de datos\ejercicios c\ejercicio repaso general\jugada.h
+
